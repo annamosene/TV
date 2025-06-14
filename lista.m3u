@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/epg.xml"
 
 #EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai",RAI 1
-https://mfpi.pizzapi.ukhttps://vavoo.to/play/875922788/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://mfpi.pizzapi.ukhttps://vavoo.to/play/1225653759/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai",RAI 1 (2)
-https://mfpi.pizzapi.ukhttps://vavoo.to/play/1225653759/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://mfpi.pizzapi.ukhttps://vavoo.to/play/875922788/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai",RAI 1 (D)
 https://mfpi.pizzapi.ukhttps://new.newkso.ru/ddy6/premium850/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
@@ -19,10 +19,10 @@ https://mfpi.pizzapi.ukhttps://vavoo.to/play/1939210164/index.m3u8&h_User-Agent=
 https://mfpi.pizzapi.ukhttps://new.newkso.ru/ddy6/premium851/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
 
 #EXTINF:-1 tvg-id="rai3.it" tvg-name="RAI 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Rai",RAI 3
-https://mfpi.pizzapi.ukhttps://vavoo.to/play/1324733956/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://mfpi.pizzapi.ukhttps://vavoo.to/play/869117599/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="rai3.it" tvg-name="RAI 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Rai",RAI 3 (2)
-https://mfpi.pizzapi.ukhttps://vavoo.to/play/869117599/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://mfpi.pizzapi.ukhttps://vavoo.to/play/1324733956/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="rai3.it" tvg-name="RAI 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Rai",RAI 3 (2) (D)
 https://mfpi.pizzapi.ukhttps://new.newkso.ru/wind/premium853/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
@@ -58,16 +58,16 @@ https://mfpi.pizzapi.ukhttps://vavoo.to/play/374675593/index.m3u8&h_User-Agent=V
 https://mfpi.pizzapi.ukhttps://vavoo.to/play/294457245/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="RAI MOVIE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
-https://mfpi.pizzapi.ukhttps://vavoo.to/play/2835672487/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
-
-#EXTINF:-1 tvg-id="raimovie.it" tvg-name="RAI MOVIE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE (2)
 https://mfpi.pizzapi.ukhttps://vavoo.to/play/1925964148/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
+#EXTINF:-1 tvg-id="raimovie.it" tvg-name="RAI MOVIE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE (2)
+https://mfpi.pizzapi.ukhttps://vavoo.to/play/2835672487/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+
 #EXTINF:-1 tvg-id="rainews24.it" tvg-name="RAI NEWS 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai",RAI NEWS 24
-https://mfpi.pizzapi.ukhttps://vavoo.to/play/2239645272/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://mfpi.pizzapi.ukhttps://vavoo.to/play/2272923972/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="rainews24.it" tvg-name="RAI NEWS 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai",RAI NEWS 24 (2)
-https://mfpi.pizzapi.ukhttps://vavoo.to/play/2272923972/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://mfpi.pizzapi.ukhttps://vavoo.to/play/2239645272/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="raipremium.it" tvg-name="RAI PREMIUM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Rai",RAI PREMIUM
 https://mfpi.pizzapi.ukhttps://vavoo.to/play/2828455552/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
@@ -172,10 +172,10 @@ https://mfpi.pizzapi.ukhttps://vavoo.to/play/1351631603/index.m3u8&h_User-Agent=
 https://mfpi.pizzapi.ukhttps://new.newkso.ru/nfs/premium877/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
 
 #EXTINF:-1 tvg-id="dazn.2.it.it" tvg-name="DAZN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN2
-https://mfpi.pizzapi.ukhttps://vavoo.to/play/1376440573/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://mfpi.pizzapi.ukhttps://vavoo.to/play/2911178456/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="dazn.2.it.it" tvg-name="DAZN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN2 (2)
-https://mfpi.pizzapi.ukhttps://vavoo.to/play/2911178456/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://mfpi.pizzapi.ukhttps://vavoo.to/play/1376440573/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="eurosport.1.it" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1
 https://mfpi.pizzapi.ukhttps://vavoo.to/play/3448075317/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
@@ -334,10 +334,10 @@ https://mfpi.pizzapi.ukhttps://vavoo.to/play/2711959620/index.m3u8&h_User-Agent=
 https://mfpi.pizzapi.ukhttps://vavoo.to/play/2077387085/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-name="SKY SPORT TENNIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS
-https://mfpi.pizzapi.ukhttps://vavoo.to/play/78546677/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://mfpi.pizzapi.ukhttps://vavoo.to/play/2100771782/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-name="SKY SPORT TENNIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (2)
-https://mfpi.pizzapi.ukhttps://vavoo.to/play/2100771782/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://mfpi.pizzapi.ukhttps://vavoo.to/play/78546677/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-name="SKY SPORT TENNIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (D)
 https://mfpi.pizzapi.ukhttps://new.newkso.ru/ddy6/premium576/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
@@ -430,19 +430,19 @@ https://mfpi.pizzapi.ukhttps://vavoo.to/play/1572866962/index.m3u8&h_User-Agent=
 https://mfpi.pizzapi.ukhttps://vavoo.to/play/86091226/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="sky.atlantic.it" tvg-name="SKY ATLANTIC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Film & Serie TV",SKY ATLANTIC
-https://mfpi.pizzapi.ukhttps://vavoo.to/play/1482866609/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://mfpi.pizzapi.ukhttps://vavoo.to/play/1421393119/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="sky.atlantic.it" tvg-name="SKY ATLANTIC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Film & Serie TV",SKY ATLANTIC (2)
-https://mfpi.pizzapi.ukhttps://vavoo.to/play/1421393119/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://mfpi.pizzapi.ukhttps://vavoo.to/play/1482866609/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV",SKY CINEMA ACTION
 https://mfpi.pizzapi.ukhttps://vavoo.to/play/1144128726/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV",SKY CINEMA ACTION (2)
-https://mfpi.pizzapi.ukhttps://vavoo.to/play/3812796171/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://mfpi.pizzapi.ukhttps://vavoo.to/play/2242741766/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV",SKY CINEMA ACTION (3)
-https://mfpi.pizzapi.ukhttps://vavoo.to/play/2242741766/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://mfpi.pizzapi.ukhttps://vavoo.to/play/3812796171/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV",SKY CINEMA ACTION (D)
 https://mfpi.pizzapi.ukhttps://new.newkso.ru/wind/premium861/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
@@ -454,10 +454,10 @@ https://mfpi.pizzapi.ukhttps://vavoo.to/play/3525837057/index.m3u8&h_User-Agent=
 https://mfpi.pizzapi.ukhttps://new.newkso.ru/wind/premium859/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
 
 #EXTINF:-1 tvg-id="sky.cinema.comedy.it" tvg-name="SKY CINEMA COMEDY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film & Serie TV",SKY CINEMA COMEDY
-https://mfpi.pizzapi.ukhttps://vavoo.to/play/500203271/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://mfpi.pizzapi.ukhttps://vavoo.to/play/3131104474/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="sky.cinema.comedy.it" tvg-name="SKY CINEMA COMEDY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film & Serie TV",SKY CINEMA COMEDY (2)
-https://mfpi.pizzapi.ukhttps://vavoo.to/play/3131104474/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://mfpi.pizzapi.ukhttps://vavoo.to/play/500203271/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="sky.cinema.drama.it" tvg-name="SKY CINEMA DRAMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="Film & Serie TV",SKY CINEMA DRAMA
 https://mfpi.pizzapi.ukhttps://vavoo.to/play/1235530177/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
@@ -523,10 +523,10 @@ https://mfpi.pizzapi.ukhttps://vavoo.to/play/1492183364/index.m3u8&h_User-Agent=
 https://mfpi.pizzapi.ukhttps://vavoo.to/play/1944682394/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 10" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 10
-https://mfpi.pizzapi.ukhttps://vavoo.to/play/4272937805/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://mfpi.pizzapi.ukhttps://vavoo.to/play/2268489342/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 10" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 10 (2)
-https://mfpi.pizzapi.ukhttps://vavoo.to/play/2268489342/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://mfpi.pizzapi.ukhttps://vavoo.to/play/4272937805/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 12" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 12
 https://mfpi.pizzapi.ukhttps://vavoo.to/play/2221901869/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
@@ -565,10 +565,10 @@ https://mfpi.pizzapi.ukhttps://vavoo.to/play/2416993844/index.m3u8&h_User-Agent=
 https://mfpi.pizzapi.ukhttps://vavoo.to/play/3137990890/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 5
-https://mfpi.pizzapi.ukhttps://vavoo.to/play/2255083866/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://mfpi.pizzapi.ukhttps://vavoo.to/play/2909818756/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 5 (2)
-https://mfpi.pizzapi.ukhttps://vavoo.to/play/2909818756/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://mfpi.pizzapi.ukhttps://vavoo.to/play/2255083866/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 6
 https://mfpi.pizzapi.ukhttps://vavoo.to/play/3939513684/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
@@ -601,10 +601,10 @@ https://mfpi.pizzapi.ukhttps://vavoo.to/play/836680112/index.m3u8&h_User-Agent=V
 https://mfpi.pizzapi.ukhttps://new.newkso.ru/wind/premium880/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
 
 #EXTINF:-1 tvg-id="top.crime.it" tvg-name="TOP CRIME" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/top-crime-it.png" group-title="Film & Serie TV",TOP CRIME
-https://mfpi.pizzapi.ukhttps://vavoo.to/play/269503091/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://mfpi.pizzapi.ukhttps://vavoo.to/play/3420407456/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="top.crime.it" tvg-name="TOP CRIME" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/top-crime-it.png" group-title="Film & Serie TV",TOP CRIME (2)
-https://mfpi.pizzapi.ukhttps://vavoo.to/play/3420407456/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://mfpi.pizzapi.ukhttps://vavoo.to/play/269503091/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="euronews.it" tvg-name="EURONEWS" tvg-logo="https://play-lh.googleusercontent.com/Mi8GAQIp3x94VcvbxZNsK-CTNhHy1zmo51pmME5KkkK4WgN4aQhM1FlNgLZUMD4VAXhL" group-title="News",EURONEWS
 https://mfpi.pizzapi.ukhttps://vavoo.to/play/490955579/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
@@ -646,10 +646,10 @@ https://mfpi.pizzapi.ukhttps://vavoo.to/play/3373510242/index.m3u8&h_User-Agent=
 https://mfpi.pizzapi.ukhttps://vavoo.to/play/3841982646/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="cartoon.network.it" tvg-name="CARTOON NETWORK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK
-https://mfpi.pizzapi.ukhttps://vavoo.to/play/1744435623/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://mfpi.pizzapi.ukhttps://vavoo.to/play/1289777017/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="cartoon.network.it" tvg-name="CARTOON NETWORK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK (2)
-https://mfpi.pizzapi.ukhttps://vavoo.to/play/1289777017/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://mfpi.pizzapi.ukhttps://vavoo.to/play/1744435623/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO
 https://mfpi.pizzapi.ukhttps://vavoo.to/play/1987220436/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
@@ -691,10 +691,10 @@ https://mfpi.pizzapi.ukhttps://vavoo.to/play/430570853/index.m3u8&h_User-Agent=V
 https://mfpi.pizzapi.ukhttps://vavoo.to/play/3267376899/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="discovery.channel.it" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari",DISCOVERY CHANNEL
-https://mfpi.pizzapi.ukhttps://vavoo.to/play/1955739367/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://mfpi.pizzapi.ukhttps://vavoo.to/play/3554841914/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="discovery.channel.it" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari",DISCOVERY CHANNEL (2)
-https://mfpi.pizzapi.ukhttps://vavoo.to/play/3554841914/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://mfpi.pizzapi.ukhttps://vavoo.to/play/1955739367/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FOCUS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Documentari",DISCOVERY FOCUS
 https://mfpi.pizzapi.ukhttps://vavoo.to/play/2113273064/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
@@ -904,10 +904,10 @@ https://mfpi.pizzapi.ukhttps://vavoo.to/play/62558606/index.m3u8&h_User-Agent=VA
 https://mfpi.pizzapi.ukhttps://vavoo.to/play/64060922/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="comedy.central.it" tvg-name="COMEDY CENTRAL" tvg-logo="https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj" group-title="Altro",COMEDY CENTRAL
-https://mfpi.pizzapi.ukhttps://vavoo.to/play/3658277450/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://mfpi.pizzapi.ukhttps://vavoo.to/play/433893159/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="comedy.central.it" tvg-name="COMEDY CENTRAL" tvg-logo="https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj" group-title="Altro",COMEDY CENTRAL (2)
-https://mfpi.pizzapi.ukhttps://vavoo.to/play/433893159/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://mfpi.pizzapi.ukhttps://vavoo.to/play/3658277450/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="COMPANY TV" tvg-logo="https://www.trendcomunicazione.com/wp-content/uploads/2018/11/20180416-logo-tv-bokka-300x155.png" group-title="Altro",COMPANY TV
 https://mfpi.pizzapi.ukhttps://vavoo.to/play/1322483308/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
@@ -976,10 +976,10 @@ https://mfpi.pizzapi.ukhttps://vavoo.to/play/2820683351/index.m3u8&h_User-Agent=
 https://mfpi.pizzapi.ukhttps://vavoo.to/play/2179686828/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="giallo.it" tvg-name="GIALLO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/giallo-it.png" group-title="Altro",GIALLO
-https://mfpi.pizzapi.ukhttps://vavoo.to/play/4060499455/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://mfpi.pizzapi.ukhttps://vavoo.to/play/2373936189/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="giallo.it" tvg-name="GIALLO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/giallo-it.png" group-title="Altro",GIALLO (2)
-https://mfpi.pizzapi.ukhttps://vavoo.to/play/2373936189/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://mfpi.pizzapi.ukhttps://vavoo.to/play/4060499455/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="GLOBUS TELEVISION" tvg-logo="https://ennapress.it/wp-content/uploads/2020/10/globus.png" group-title="Altro",GLOBUS TELEVISION
 https://mfpi.pizzapi.ukhttps://vavoo.to/play/2116902817/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
@@ -1027,10 +1027,10 @@ https://mfpi.pizzapi.ukhttps://vavoo.to/play/1425667375/index.m3u8&h_User-Agent=
 https://mfpi.pizzapi.ukhttps://vavoo.to/play/84139639/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="la7.hd.it" tvg-name="LA 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7
-https://mfpi.pizzapi.ukhttps://vavoo.to/play/2143522071/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://mfpi.pizzapi.ukhttps://vavoo.to/play/775530063/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="la7.hd.it" tvg-name="LA 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7 (2)
-https://mfpi.pizzapi.ukhttps://vavoo.to/play/775530063/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://mfpi.pizzapi.ukhttps://vavoo.to/play/2143522071/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="la7d.it" tvg-name="LA 7 D" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7d-it.png" group-title="Altro",LA 7 D
 https://mfpi.pizzapi.ukhttps://vavoo.to/play/881846038/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
@@ -1087,10 +1087,10 @@ https://mfpi.pizzapi.ukhttps://vavoo.to/play/714472867/index.m3u8&h_User-Agent=V
 https://mfpi.pizzapi.ukhttps://vavoo.to/play/3124512993/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="PRIMA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Prima_TV_Logo_2022.svg/800px-Prima_TV_Logo_2022.svg.png" group-title="Altro",PRIMA TV
-https://mfpi.pizzapi.ukhttps://vavoo.to/play/91764224/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://mfpi.pizzapi.ukhttps://vavoo.to/play/530658045/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="PRIMA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Prima_TV_Logo_2022.svg/800px-Prima_TV_Logo_2022.svg.png" group-title="Altro",PRIMA TV (2)
-https://mfpi.pizzapi.ukhttps://vavoo.to/play/530658045/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
+https://mfpi.pizzapi.ukhttps://vavoo.to/play/91764224/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
 
 #EXTINF:-1 tvg-id="" tvg-name="PRIMO CANALE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/primocanale-it.png?raw=true" group-title="Altro",PRIMO CANALE
 https://mfpi.pizzapi.ukhttps://vavoo.to/play/3497884599/index.m3u8&h_User-Agent=VAVOO2/6&h_Referer=https://vavoo.to/&h_Origin=https://vavoo.to
@@ -1399,13 +1399,10 @@ https://mfpi.pizzapi.ukhttps://new.newkso.ru/ddy6/premium851/mono.m3u8&h_User-Ag
 #EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="formula1pirellicanadiangrandprixpractice3" tvg-name="Formula 1 : Pirelli Canadian Grand Prix - Practice 3 (18:30)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Formula 1 : Pirelli Canadian Grand Prix - Practice 3 (18:30)
-https://mfpi.pizzapi.ukhttps://new.newkso.ru/nfs/premium577/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
-
 #EXTINF:-1 tvg-id="formula1pirellicanadiangrandprixqualifying" tvg-name="Formula 1 : Pirelli Canadian Grand Prix - Qualifying (22:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Formula 1 : Pirelli Canadian Grand Prix - Qualifying (22:00)
 https://mfpi.pizzapi.ukhttps://new.newkso.ru/nfs/premium577/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
 
-#EXTINF:-1 tvg-id="fiawecround424hoursoflemansracepart2" tvg-name="FIA WEC | Round 4 | 24 Hours of Le Mans Race | Part 2 (23:00)" tvg-logo="https://d3ie7ogstrup9y.cloudfront.net/wp-content/uploads/2020/10/27150110/WEC-Logos-2022-01.png" group-title="Eventi Live",FIA WEC | Round 4 | 24 Hours of Le Mans Race | Part 2 (23:00)
+#EXTINF:-1 tvg-id="fiawecround424hoursoflemansracepart2" tvg-name="FIA WEC | Round 4 | 24 Hours of Le Mans Race | Part 2 (23:00)" tvg-logo="http://partag-auto.e-monsite.com/medias/images/fia-wec-logo.png?fx=c_200_200" group-title="Eventi Live",FIA WEC | Round 4 | 24 Hours of Le Mans Race | Part 2 (23:00)
 https://mfpi.pizzapi.ukhttps://new.newkso.ru/wind/premium878/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
 
 #EXTINF:-1 tvg-name="Basketball" group-title="Eventi Live",--- Basketball ---
