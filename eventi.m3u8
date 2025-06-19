@@ -11,7 +11,7 @@ https://mfpi.pizzapi.ukhttps://new.newkso.ru/nfs/premium5/mono.m3u8&h_User-Agent
 #EXTINF:-1 tvg-name="Basketball" group-title="Eventi Live",--- Basketball ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="legaabresciavsvirtusbologna" tvg-name="Lega A : Brescia vs Virtus Bologna (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Brescia_vs_Virtus Bologna.png" group-title="Eventi Live",Lega A : Brescia vs Virtus Bologna (20:30)
+#EXTINF:-1 tvg-id="legaabresciavsvirtusbologna" tvg-name="Lega A : Brescia vs Virtus Bologna (20:30)" tvg-logo="https://teamcolorcodes.com/wp-content/uploads/2022/12/Virtus-Segafredo-Bologna-Logo-1024x1024.png" group-title="Eventi Live",Lega A : Brescia vs Virtus Bologna (20:30)
 https://mfpi.pizzapi.ukhttps://new.newkso.ru/wind/premium879/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
 
 #EXTINF:-1 tvg-id="eurobasketwomenitalywvssloveniaw" tvg-name="Eurobasket Women : Italy W vs Slovenia W (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Italy W_vs_Slovenia W.png" group-title="Eventi Live",Eurobasket Women : Italy W vs Slovenia W (21:00)
@@ -20,6 +20,6 @@ https://mfpi.pizzapi.ukhttps://new.newkso.ru/ddy6/premium882/mono.m3u8&h_User-Ag
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="tourofswitzerlandstage5menlapuntsantamariaincalanca1867km" tvg-name="Tour of Switzerland | Stage 5 Men | La Punt - Santa Maria in Calanca (186.7 km) (14:45)" tvg-logo="https://grandtourofswitzerland.jp/img/logo_bgred.png" group-title="Eventi Live",Tour of Switzerland | Stage 5 Men | La Punt - Santa Maria in Calanca (186.7 km) (14:45)
+#EXTINF:-1 tvg-id="tourofswitzerlandstage5menlapuntsantamariaincalanca1867km" tvg-name="Tour of Switzerland | Stage 5 Men | La Punt - Santa Maria in Calanca (186.7 km) (14:45)" tvg-logo="https://grandtourofswitzerland.jp/img/logo_bgwhite.png" group-title="Eventi Live",Tour of Switzerland | Stage 5 Men | La Punt - Santa Maria in Calanca (186.7 km) (14:45)
 https://mfpi.pizzapi.ukhttps://new.newkso.ru/wind/premium879/mono.m3u8&h_User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_Referer=https://alldownplay.xyz/&h_Origin=https://alldownplay.xyz
 
