@@ -98,19 +98,6 @@
     <desc lang="it">World Cup | Chamonix Men's & Women's Speed | Final</desc>
     <category lang="it">Climbing</category>
   </programme>
-  <channel id="UCIDownhillWorldCupWomenElitePalArinsal">
-    <display-name>UCI Downhill World Cup | Women Elite | Pal Arinsal</display-name>
-  </channel>
-  <programme start="20250712000000 +0200" stop="20250712123000 +0200" channel="UCIDownhillWorldCupWomenElitePalArinsal">
-    <title lang="it">Inizia  alle 12:30.</title>
-    <desc lang="it">UCI Downhill World Cup | Women Elite | Pal Arinsal.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250712123000 +0200" stop="20250712143000 +0200" channel="UCIDownhillWorldCupWomenElitePalArinsal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UCI Downhill World Cup | Women Elite | Pal Arinsal</desc>
-    <category lang="it">Cycling</category>
-  </programme>
   <channel id="TourdeFrance8thstageSaintMenleGrandLavalFlat171km1700m">
     <display-name>Tour de France 8th stage: Saint-M?en-le-Grand - Laval Flat | 171 km | 1700 m</display-name>
   </channel>
