@@ -1279,9 +1279,6 @@ https://exemple.m3u8
 #EXTINF:-1 tvg-name="Basketball" group-title="Eventi Live",--- Basketball ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-name="Rugby Union" group-title="Eventi Live",--- Rugby Union ---
-https://exemple.m3u8
-
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612e05b885183d0007958101/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -1540,18 +1537,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63724270c
 
 #EXTINF:-1 tvg-name="SPORTSTREAMING" group-title="Eventi Live",SPORTSTREAMING
 https://example.com.m3u8
-
-#EXTINF:-1 tvg-name="Genoa - Juventus | Serie A - Giornata 2 | 18:30 (SPS)"group-title="Eventi Live" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live13.png",Genoa - Juventus | Serie A - Giornata 2 | 18:30 (SPS)
-https://mfpi.pizzapi.ukhttps://xuione.sportstreaming.net/SportStreaming/SportStreaming/1634.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
-
-#EXTINF:-1 tvg-name="Torino - Fiorentina | Serie A - Giornata 2 | 18:30 (SPS)"group-title="Eventi Live" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live14.png",Torino - Fiorentina | Serie A - Giornata 2 | 18:30 (SPS)
-https://mfpi.pizzapi.ukhttps://xuione.sportstreaming.net/SportStreaming/SportStreaming/1642.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
-
-#EXTINF:-1 tvg-name="Carrarese - Padova | Serie B - Giornata 2 | 19:00 (SPS)"group-title="Eventi Live" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live17.png",Carrarese - Padova | Serie B - Giornata 2 | 19:00 (SPS)
-https://mfpi.pizzapi.ukhttps://xuione.sportstreaming.net/SportStreaming/SportStreaming/1648.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
-
-#EXTINF:-1 tvg-name="Sudtirol - Sampdoria | Serie B - Giornata 2 | 19:00 (SPS)"group-title="Eventi Live" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live18.png",Sudtirol - Sampdoria | Serie B - Giornata 2 | 19:00 (SPS)
-https://mfpi.pizzapi.ukhttps://xuione.sportstreaming.net/SportStreaming/SportStreaming/1661.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
 
 #EXTINF:-1 tvg-name="Inter - Udinese | Serie A - Giornata 2 | 20:45 (SPS)"group-title="Eventi Live" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live15.png",Inter - Udinese | Serie A - Giornata 2 | 20:45 (SPS)
 https://mfpi.pizzapi.ukhttps://xuione.sportstreaming.net/SportStreaming/SportStreaming/1633.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
