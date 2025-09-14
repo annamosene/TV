@@ -365,19 +365,6 @@
     <desc lang="it">Italy - Serie A : Milan vs Bologna</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="WTA500GuadalajaraFINALE">
-    <display-name>WTA 500 Guadalajara: FINALE</display-name>
-  </channel>
-  <programme start="20250914000000 +0200" stop="20250914020000 +0200" channel="WTA500GuadalajaraFINALE">
-    <title lang="it">Inizia  alle 02:00.</title>
-    <desc lang="it">WTA 500 Guadalajara: FINALE.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250914020000 +0200" stop="20250914040000 +0200" channel="WTA500GuadalajaraFINALE">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA 500 Guadalajara: FINALE</desc>
-    <category lang="it">Tennis</category>
-  </programme>
   <channel id="GuadalajaraWTASaoPauloWTAEarlyRounds">
     <display-name>Guadalajara-WTA & Sao Paulo-WTA Early Rounds</display-name>
   </channel>
